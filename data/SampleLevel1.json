@@ -1,18 +1,22 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
+    "id": 35448603,
+    "name": "Blade Of Justice",
+    "author": "Manix648",
+    "creators": ["Manix", "Others"],
+    "verifier": "wYeezy",
+    "verification": "Null",
+    "percentToQualify": 100,
+    "password": "PlaceHolder",
+    "records": [  
+"user": "Yeezy",
+            "link": "NULL",
+            "percent": 100,
+            "hz": 360
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": N/A
         }
     ]
 }
