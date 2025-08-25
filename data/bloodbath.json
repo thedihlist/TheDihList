@@ -1,18 +1,22 @@
 {
-    "id": 57436521,
+    "id": 10565740,
     "name": "Bloodbath",
-    "author": "IDK dude",
-    "creators": ["Riot"],
+    "author": "Manix648",
+    "creators": ["Riot", "Others"],
     "verifier": "Riot",
-    "verification": "N/A",
-    "percentToQualify": "100",
-    "password": "i have no fucking clue",
-    "records": [
-        {
-            "user": "Yellobiscuit",
-            "link": "no link",
+    "verification": "Null",
+    "percentToQualify": 100,
+    "password": "PlaceHolder",
+    "records": [  
+"user": "Yeezy",
+            "link": "Null",
             "percent": 100,
-            "hz": 60
+            "hz": 360
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
